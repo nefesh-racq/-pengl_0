@@ -1,6 +1,6 @@
 /**
 * programa basico de opengl con glut
-* g++ hello_opengl.cpp -glut -lGL
+* g++ hello_opengl.cpp -lglut -lGL
 *
 */
 #include <iostream>
